@@ -4,3 +4,5 @@ git add
 git reset --hard,  --soft,  --mixed
 git add -p dodavanjedijela datoteke
 git add . dodavanje svihizmijenjenih datoteka u stageu-g
+git pull kopiranje svih promjena dostupnih na origin repozitoriju
+git push 
